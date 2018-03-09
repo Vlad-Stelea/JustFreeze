@@ -1,11 +1,8 @@
 package com.company;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
-import org.opencv.imgproc.Imgproc;
 import org.opencv.video.BackgroundSubtractor;
-import org.opencv.video.BackgroundSubtractorMOG2;
 import org.opencv.video.Video;
 import org.opencv.videoio.VideoCapture;
 

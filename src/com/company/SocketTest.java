@@ -1,8 +1,6 @@
 package com.company;
 
 import org.opencv.core.Core;
-import org.opencv.core.Mat;
-
 import java.awt.*;
 import java.io.IOException;
 import java.io.ObjectInputStream;

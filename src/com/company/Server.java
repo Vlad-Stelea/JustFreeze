@@ -1,13 +1,9 @@
 package com.company;
 
-import org.opencv.core.Mat;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
-import java.io.OutputStream;
-import java.io.Serializable;
 import java.net.ServerSocket;
-import java.net.Socket;
 import java.util.ArrayList;
 
 /**
